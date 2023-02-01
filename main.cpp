@@ -15,6 +15,6 @@ int main(){
   
     std::cout << "I:" << valCurr << "A\n";
 
-    //hw_init();
+    ////hw_init();
     return 0;
 }
